@@ -8,7 +8,7 @@ const Cards = () => {
   const [cards] = useState([
     {
       id: 1,
-      name: "CodeItDown",
+      name: "SquishyTraveller",
       number: "5000 0000 0000 0000",
       expiry: "12/05",
       image: mastercard,

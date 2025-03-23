@@ -7,7 +7,7 @@ export const initialTransactions = [
     day: 27,
     type: "expense",
     category: "car",
-    card: "CodeItDown",
+    card: "SquishyTraveller",
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ export const initialTransactions = [
     day: 13,
     type: "expense",
     category: "groceries",
-    card: "CodeItDown",
+    card: "SquishyTraveller",
   },
   {
     id: 3,
@@ -27,7 +27,7 @@ export const initialTransactions = [
     day: 16,
     type: "income",
     category: "salary",
-    card: "CodeItDown",
+    card: "SquishyTraveller",
   },
   {
     id: 4,
@@ -37,7 +37,7 @@ export const initialTransactions = [
     day: 27,
     type: "expense",
     category: "car",
-    card: "CodeItDown",
+    card: "SquishyTraveller",
   },
   {
     id: 5,
@@ -47,7 +47,7 @@ export const initialTransactions = [
     day: 13,
     type: "expense",
     category: "groceries",
-    card: "CodeItDown",
+    card: "SquishyTraveller",
   },
   {
     id: 6,
@@ -57,7 +57,7 @@ export const initialTransactions = [
     day: 27,
     type: "expense",
     category: "car",
-    card: "CodeItDown",
+    card: "SquishyTraveller",
   },
   {
     id: 7,
@@ -67,7 +67,7 @@ export const initialTransactions = [
     day: 16,
     type: "income",
     category: "salary",
-    card: "CodeItDown",
+    card: "SquishyTraveller",
   },
   {
     id: 8,
@@ -77,7 +77,7 @@ export const initialTransactions = [
     day: 13,
     type: "expense",
     category: "groceries",
-    card: "CodeItDown",
+    card: "SquishyTraveller",
   },
   {
     id: 9,
@@ -87,6 +87,6 @@ export const initialTransactions = [
     day: 16,
     type: "income",
     category: "salary",
-    card: "CodeItDown",
+    card: "SquishyTraveller",
   },
 ];

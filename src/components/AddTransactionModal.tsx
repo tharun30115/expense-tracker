@@ -48,7 +48,7 @@ const AddTransactionModal = ({
       month: 0,
       day: 0,
       category: "car",
-      card: "Codeitdown",
+      card: "SquishyTraveller",
     }
   );
 
@@ -126,7 +126,7 @@ const AddTransactionModal = ({
             value={data.card}
             onChange={(e: any) => setData({ ...data, card: e.target.value })}
             options={[
-              { value: "Codeitdown", label: "CodeItDown" },
+              { value: "SquishyTraveller", label: "SquishyTraveller" },
               { value: "Personal", label: "Personal" },
             ]}
           />
