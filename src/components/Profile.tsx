@@ -21,7 +21,7 @@ const Profile = () => {
           <img src={user} alt="user" className="w-[70%]" />
         </div>
         <div className="flex flex-col items-center justify-center">
-          <span className="text-2xl font-semibold text-primary">Tom</span>
+          <span className="text-2xl font-semibold text-primary">SquishyTraveller</span>
           <span className="text-sm text-primary">tom-SquishyTraveller@gmail.com</span>
         </div>
         <div className="w-full flex items-center justify-around mt-6">
